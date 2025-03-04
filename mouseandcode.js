@@ -379,7 +379,8 @@ require('events').EventEmitter.defaultMaxListeners = 20; // Set the maximum numb
 
         ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         const extensionID = 'div[data-id="tmaNxu0Qh1QsjhVV"]'; // Replace with the appropriate selector
-        const extensionTitle = 'Sketch 3'; // Replace with the desired title
+        // const extensionTitle = 'Sketch 3'; // Replace with the desired title
+        const extensionTitle = 'Sketch 3 is not fully defined'; // Replace with the desired title
         console.log('Right-clicking on the specified element.');
         const extensionOption1 = await performRightClickOptionByTitle(newPage, extensionID, extensionTitle);
         console.log("NNNNNNNNNNN");
