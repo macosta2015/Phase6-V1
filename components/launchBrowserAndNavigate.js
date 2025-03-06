@@ -2,7 +2,6 @@ const puppeteer = require('puppeteer');
 
 //Please type the name of the file you want to edit here:
 // const OnShapefileName = 'Extrude8';
-// const OnShapefileName = 'Extrude8 - Copy';
 const OnShapefileName = 'Extrude10 - Copy';
 
 
