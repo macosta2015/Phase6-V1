@@ -2,9 +2,9 @@ const puppeteer = require('puppeteer');
 
 //Please type the name of the file you want to edit here:
 // const OnShapefileName = 'Extrude8';
-//Tyoe
-const OnShapefileName = 'Extrude10 - Copy';
 
+const OnShapefileName = 'Extrude10 - Copy';
+console.log('Typed name: ' + OnShapefileName)
 
 
 
