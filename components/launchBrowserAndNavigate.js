@@ -6,6 +6,7 @@ const puppeteer = require('puppeteer');
 const OnShapefileName = 'Extrude10 - Copy';
 console.log('Typed name: ' + OnShapefileName)
 console.log('You can chose tha name that you want, you know what to do!')
+console.log('Discipline moves mountains')
 
 
 async function launchBrowserAndNavigateToDocument() {
