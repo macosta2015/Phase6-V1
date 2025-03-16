@@ -7,7 +7,7 @@ const OnShapefileName = 'Extrude10 - Copy';
 console.log('Typed name: ' + OnShapefileName)
 console.log('You can chose tha name that you want, you know what to do!')
 console.log('Discipline moves mountains, it is almost 1am and working')
-console.log('we played tennis today')
+console.log('LIFE IS GOOD WITH DISCIPLINE')
 
 
 async function launchBrowserAndNavigateToDocument() {
