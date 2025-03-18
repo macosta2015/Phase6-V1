@@ -9,6 +9,8 @@ console.log('You can chose tha name that you want, you know what to do!')
 console.log('Discipline moves mountains, it is almost 1am and working')
 console.log('LIFE IS GOOD WITH DISCIPLINE')
 console.log('You are only limited by your brain, believes')
+console.log('You only have one life')
+
 
 async function launchBrowserAndNavigateToDocument() {
     console.log('//LAUNCHING BROWSER');
