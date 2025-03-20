@@ -11,6 +11,8 @@ console.log('LIFE IS GOOD WITH DISCIPLINE')
 console.log('You are only limited by your brain, believes')
 console.log('You only have one life')
 console.log('Blitzscaling')
+console.log('Research the AI agents tools')
+
 
 
 
