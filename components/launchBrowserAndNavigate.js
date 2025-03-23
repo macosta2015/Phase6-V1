@@ -17,7 +17,6 @@ console.log('Travel, do sports')
 
 
 
-
 async function launchBrowserAndNavigateToDocument() {
     console.log('//LAUNCHING BROWSER');
     const browser = await puppeteer.launch({
