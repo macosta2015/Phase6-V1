@@ -13,7 +13,7 @@ console.log('You only have one life')
 console.log('Blitzscaling')
 console.log('Research the AI agents tools')
 console.log('Keep working hard')
-
+console.log('Travel, do sports')
 
 
 
