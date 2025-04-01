@@ -19,6 +19,8 @@ console.log('Champions life')
 console.log('You will be bath at the beginning, you will improve if you are disciplined')
 console.log('Paso a paso, VamosConTodo')
 console.log('Gracias a Dios, amén')
+console.log('Tengo muy buenas relaciones')
+
 
 
 
