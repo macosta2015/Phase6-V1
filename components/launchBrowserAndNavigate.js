@@ -20,6 +20,8 @@ console.log('You will be bath at the beginning, you will improve if you are disc
 console.log('Paso a paso, VamosConTodo')
 console.log('Gracias a Dios, amén')
 console.log('Tengo muy buenas relaciones')
+console.log('LIFE IS WHAT YOU DO, NOT WHAT YOU SAY YOU WILL DO')
+
 
 
 
