@@ -21,8 +21,7 @@ console.log('Paso a paso, VamosConTodo')
 console.log('Gracias a Dios, amén')
 console.log('Tengo muy buenas relaciones')
 console.log('LIFE IS WHAT YOU DO, NOT WHAT YOU SAY YOU WILL DO')
-
-
+console.log('sorround yourself with other entreprenerus')
 
 
 
